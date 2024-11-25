@@ -68,7 +68,7 @@ python -m pip install --upgrade pip
 - Clone or download the project
 
 ```git 
-git clone https://github.com/4lphachain/Pumpfun_Solana_Sniper_Bot.git
+git clone https://github.com/h3curles/Pumpfun_SOLANA_SNIPER_BOT.git
 ```
 
 Option 2: Download the project directly
@@ -80,7 +80,7 @@ Go to the project's GitHub page, click the "Code" button and select "Download ZI
 Open a terminal and navigate to the project folder
 
 ```python
-cd Pumpfun_Solana_Sniper_Bot
+cd Pumpfun_SOLANA_SNIPER_BOT
 ```
 
 - Install libraries
