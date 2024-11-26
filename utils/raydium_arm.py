@@ -5,7 +5,7 @@ async def main():
         config['solanaEndpoint'],
         get_amm_id(config["baseMint"]), 
         config['walletSecretKey'],
-        config['symbol']
+        config['symbol'] 
     )
     await amm.buy(0.1)
     #cex = CEX(config['symbol'], config['cexAPIKey'], config['cexSecretKey'])
