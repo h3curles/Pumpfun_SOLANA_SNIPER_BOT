@@ -1,5 +1,5 @@
 Mint : H62oxsyczDHn5Lr2p2RXwY2n458t83vZKxqX6XZdVze9
 mint: H62oxsyczDHn5Lr2p2RXwY2n458t83vZKxqX6XZdVze9
 signature: ZbNqASzLRNoAmTdaBLfHsNjT5q1EcsUgwnZDxpZkqwnCNEUiZnzeYH25J8yYFR7jd6K2enJYBK3s2tog7MHVkmZ
-solscan: https://solscan.io/tx/ZbNqASzLRNoAmTdaBLfHsNjT5q1EcsUgwnZDxpZkqwnCNEUiZnzeYH25J8yYFR7jd6K2enJYBK3s2tog7MHVkmZ 
+solscan: https://solscan.io/tx/ZbNqASzLRNoAmTdaBLfHsNjT5q1EcsUgwnZDxpZkqwnCNEUiZnzeYH25J8yYFR7jd6K2enJYBK3s2tog7MHVkmZ  
  
