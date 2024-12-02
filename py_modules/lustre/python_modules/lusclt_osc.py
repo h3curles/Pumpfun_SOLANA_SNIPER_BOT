@@ -3,7 +3,7 @@
 # collect lustre client metrics from osc stats files
 # https://build.hpdd.intel.com/job/lustre-manual/lastSuccessfulBuild/artifact/lustre_manual.xhtml#lustreproc.clientstats
 #
-# based on gmond diskstat python module
+# based on gmond diskstat python module 
 #
 ##  Copyright Chris Hunter, Yale University ITS, 2014
 ##  License to use, modify, and distribute under the GPL
