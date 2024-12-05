@@ -3,7 +3,7 @@ import pytest
 from solders.keypair import Keypair 
 from solders.message import Message        
 from solders.transaction_status import ParsedInstruction 
-from spl.memo.constants import MEMO_PROGRAM_ID 
+from spl.memo.constants import MEMO_PROGRAM_ID  
 from spl.memo.instructions import MemoParams, create_memo   
    
 from solana.rpc.api import Client 
