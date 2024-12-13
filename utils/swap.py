@@ -1,7 +1,7 @@
 from spl.token.instructions import close_account, CloseAccountParams
 
 from solana.rpc.types import TokenAccountOpts
-from solana.rpc.api import RPCException
+from solana.rpc.api import RPCException 
 from solana.transaction import Transaction
 
 from solders.pubkey import Pubkey
